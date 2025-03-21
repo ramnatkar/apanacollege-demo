@@ -1,2 +1,4 @@
 # apanacollege-demo
-This is to learn Git &amp; Github
+This is to learn Git & Github
+<br>
+Author - RK Natkar
